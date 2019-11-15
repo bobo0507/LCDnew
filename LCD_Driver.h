@@ -24,7 +24,7 @@ enum LCD_COLOR {
     BROWN = 0XBC40,
     BRRED = 0XFC07,
     GRAY = 0X8430,
-	ORANGE = 0X3051
+    ORANGE = 0X3051
 };
 
 enum DOT_PIXEL{
