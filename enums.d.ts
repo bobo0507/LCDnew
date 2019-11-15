@@ -18,7 +18,7 @@ declare namespace LCD1IN8 {
     BROWN = 0XBC40,
     BRRED = 0XFC07,
     GRAY = 0X8430,
-    ORANGE = 0X3501,
+    ORANGE = 0XFF23,
     }
 
 
